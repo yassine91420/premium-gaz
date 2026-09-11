@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 170">
+<defs><linearGradient id="b" x1="0" x2="1"><stop stop-color="#063e96"/><stop offset=".5" stop-color="#4ec5ff"/><stop offset="1" stop-color="#0751b5"/></linearGradient></defs>
+<circle cx="70" cy="72" r="58" fill="none" stroke="url(#b)" stroke-width="7"/>
+<path d="M40 120c22-19 19-55 33-79M101 120C79 101 82 65 68 41" fill="none" stroke="#075dcc" stroke-width="8" stroke-linecap="round"/>
+<rect x="52" y="29" width="38" height="94" rx="15" fill="url(#b)" stroke="#063e96" stroke-width="3"/>
+<rect x="61" y="15" width="20" height="19" rx="4" fill="#06469d"/>
+<text x="142" y="77" font-family="Arial,sans-serif" font-size="48" font-weight="900" fill="#10275b">PREMIUM</text>
+<text x="278" y="116" font-family="Arial,sans-serif" font-size="29" font-weight="900" letter-spacing="9" fill="#087ce0">GAZ</text>
+<path d="M142 136h275" stroke="#0a5ab8" stroke-width="3"/>
+</svg>
